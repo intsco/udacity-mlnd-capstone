@@ -1,0 +1,46 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{Definition}{1}{Doc-Start}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces A “slice” of an MSI dataset for a specific $m/z$ (or associated ion). The inner part of manually outlined region (in red) is a sample area, the outside area is off sample (or background). Here we have an example of a signal that mostly comes (more intense signals are yellow) from the off sample area and thus not particularly interesting to the user.\relax }}{2}{figure.caption.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces $m/z$ (ion) image example\relax }}{3}{figure.caption.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Single (normalized) spectrum example\relax }}{3}{figure.caption.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Two images above are slices of MSI datasets of regular and irregular shapes. It is pretty easy to see two distinct areas on the first image. On the second one, it is tough to locate the off sample area as it is represented only with a thin ring around the sample.\relax }}{4}{figure.caption.4}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:ion_image_regular.png}{{4a}{4}{Rectangular MSI dataset\relax }{figure.caption.4}{}}
+\newlabel{sub@fig:ion_image_regular.png}{{a}{4}{Rectangular MSI dataset\relax }{figure.caption.4}{}}
+\newlabel{fig:ion_image_irregular.png}{{4b}{4}{Irregular shape MSI dataset\relax }{figure.caption.4}{}}
+\newlabel{sub@fig:ion_image_irregular.png}{{b}{4}{Irregular shape MSI dataset\relax }{figure.caption.4}{}}
+\newlabel{fig:sum_ints_on_sample_graph.png}{{5a}{4}{Sum of on sample spectra\relax }{figure.caption.5}{}}
+\newlabel{sub@fig:sum_ints_on_sample_graph.png}{{a}{4}{Sum of on sample spectra\relax }{figure.caption.5}{}}
+\newlabel{fig:sum_ints_off_sample_graph.png}{{5b}{4}{Sum of off sample spectra\relax }{figure.caption.5}{}}
+\newlabel{sub@fig:sum_ints_off_sample_graph.png}{{b}{4}{Sum of off sample spectra\relax }{figure.caption.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The above two images show sum of spectra for two areas (on/off sample) of a MSI dataset. It is easy to see that there is a difference between these two spectra.\relax }}{4}{figure.caption.5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The stacked bars graph is a zoomed version of the above two spectra combined. On this graph, it is easier to see that some signals (at specific $m/z$) come mostly from the off sample while others from the on sample area.\relax }}{5}{figure.caption.6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The example mask for a MSI dataset, the mask is in yellow. Each pixel has one of the two classes assigned to it. Correct prediction of such masks for all MSI datasets in focus is one way of solving the original problem. Once we have a mask image for a MSI dataset, it should be possible to combine it with every result image (ion image) from METASPACE for the dataset and decide if the image depicts the off sample or the on sample area.\relax }}{5}{figure.caption.7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Another approach would be to try to train a model that takes an ion image as input and classifies it as on/off sample one. Two images from the same MSI dataset, the left one depicts the on sample area, the right off sample.\relax }}{5}{figure.caption.8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces The PCA tranformation was applied to all pixels of a MSI dataset. Visualisation of the first two components. Pixels that belong to different classes have different colour. Here we can clearly see two groups that also have a substantial ovelapping.\relax }}{6}{figure.caption.9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces A histogram of the first principal component. It is easy to see that distributions of of component values are quite different for the classes. Unfortunately, not for all MSI datasets in focus it is possible to get such a nice binomial distribution. Another problem with this approach is in the fact that it is not known which class a particular distribution represents, on or off sample. The order of distribution peaks is different for each MSI dataset.\relax }}{6}{figure.caption.10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Another attempt to use unsupervised learning in order to separate pixels of two different classes. K-means clustering algorithm with $N=5$ ($N$ - number of clusters) was applied to an MSI dataset. The cluster numbers were assigned colours and mapped back to the original pixel locations. One can clearly see a nice groupping of pixels. Here the clusters assigned yellow, green and dark blue colours together represent on sample area.\relax }}{7}{figure.caption.11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces Comparison of on sample (top) and off sample (bottom) ion images.\relax }}{8}{figure.caption.12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces The final dataset appeared to be slightly unbalanced with approximately 30\% of target class images. But inside image groups (MSI datasets), image classes can be much more imbalanced. In some cases, a group has just a few images of the target class. This fact definitely added complexity to the problem.\relax }}{9}{figure.caption.13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces The final network architecture\relax }}{11}{figure.caption.14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Group 10-fold cross-validation metrics\relax }}{12}{figure.caption.15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces Cross-validation mean metrics\relax }}{12}{figure.caption.16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces Cross-validation metrics scatter plot\relax }}{13}{figure.caption.17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Comparison of on sample ion images (left) with off sample ones (right).\relax }}{14}{figure.caption.18}}
