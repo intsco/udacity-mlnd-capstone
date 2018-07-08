@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.9)  1 JUL 2018 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.9)  8 JUL 2018 13:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -480,248 +480,299 @@ Package pdftex.def Info: ion_image_1.png used on input line 63.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./ion_image_1.png>]
-<ion_image_2.png, id=36, 458.71375pt x 501.875pt>
+<roccurves.png, id=36, 90.3375pt x 87.62738pt>
+File: roccurves.png Graphic file (type png)
+ <use roccurves.png>
+Package pdftex.def Info: roccurves.png used on input line 92.
+(pdftex.def)             Requested size: 146.6671pt x 142.26709pt.
+ [3 <./roccurves.png>] <ion_image_2.png, id=42, 458.71375pt x 501.875pt>
 File: ion_image_2.png Graphic file (type png)
- <use ion_image_2.png>
-Package pdftex.def Info: ion_image_2.png used on input line 101.
-(pdftex.def)             Requested size: 104.01807pt x 113.80533pt.
 
-<spectrum_graph_1.png, id=37, 920.43875pt x 319.1925pt>
+<use ion_image_2.png>
+Package pdftex.def Info: ion_image_2.png used on input line 131.
+(pdftex.def)             Requested size: 104.01807pt x 113.80533pt.
+ <spectrum_graph_1.png, id=43, 920.43875pt x 319.1925pt>
 File: spectrum_graph_1.png Graphic file (type png)
 
 <use spectrum_graph_1.png>
-Package pdftex.def Info: spectrum_graph_1.png used on input line 107.
+Package pdftex.def Info: spectrum_graph_1.png used on input line 137.
 (pdftex.def)             Requested size: 418.25368pt x 145.04773pt.
 
-<ion_image_regular.png, id=38, 798.985pt x 501.875pt>
+<ion_image_regular.png, id=44, 798.985pt x 501.875pt>
 File: ion_image_regular.png Graphic file (type png)
 
 <use ion_image_regular.png>
-Package pdftex.def Info: ion_image_regular.png used on input line 127.
+Package pdftex.def Info: ion_image_regular.png used on input line 157.
 (pdftex.def)             Requested size: 181.17809pt x 113.80533pt.
 
-<ion_image_irregular.png, id=39, 318.18875pt x 501.875pt>
+<ion_image_irregular.png, id=45, 318.18875pt x 501.875pt>
 File: ion_image_irregular.png Graphic file (type png)
 
 <use ion_image_irregular.png>
-Package pdftex.def Info: ion_image_irregular.png used on input line 133.
+Package pdftex.def Info: ion_image_irregular.png used on input line 163.
 (pdftex.def)             Requested size: 72.15257pt x 113.80533pt.
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 125--137
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 155--167
 [][] [] 
  []
 
-[3 <./ion_image_2.png> <./spectrum_graph_1.png>]
-<sum_ints_on_sample_graph.png, id=47, 910.40125pt x 320.19624pt>
+[4 <./ion_image_2.png> <./spectrum_graph_1.png>]
+<sum_ints_on_sample_graph.png, id=53, 910.40125pt x 320.19624pt>
 File: sum_ints_on_sample_graph.png Graphic file (type png)
 
 <use sum_ints_on_sample_graph.png>
-Package pdftex.def Info: sum_ints_on_sample_graph.png used on input line 142.
+Package pdftex.def Info: sum_ints_on_sample_graph.png used on input line 172.
 (pdftex.def)             Requested size: 404.49521pt x 142.26457pt.
 
-<sum_ints_off_sample_graph.png, id=48, 893.3375pt x 323.2075pt>
+<sum_ints_off_sample_graph.png, id=54, 893.3375pt x 323.2075pt>
 File: sum_ints_off_sample_graph.png Graphic file (type png)
 
 <use sum_ints_off_sample_graph.png>
-Package pdftex.def Info: sum_ints_off_sample_graph.png used on input line 148.
+Package pdftex.def Info: sum_ints_off_sample_graph.png used on input line 178.
 (pdftex.def)             Requested size: 393.20602pt x 142.26105pt.
 
-<sum_int_stacked_bar.png, id=49, 978.65625pt x 247.92625pt>
+<sum_int_stacked_bar.png, id=55, 978.65625pt x 247.92625pt>
 File: sum_int_stacked_bar.png Graphic file (type png)
 
 <use sum_int_stacked_bar.png>
-Package pdftex.def Info: sum_int_stacked_bar.png used on input line 158.
+Package pdftex.def Info: sum_int_stacked_bar.png used on input line 188.
 (pdftex.def)             Requested size: 418.26044pt x 142.26518pt.
- [4 <./ion_image_regular.png> <./ion_image_irregular.png> <./sum_ints_on_sample
+ [5 <./ion_image_regular.png> <./ion_image_irregular.png> <./sum_ints_on_sample
 _graph.png (PNG copy)> <./sum_ints_off_sample_graph.png (PNG copy)>] <off_sampl
-e_mask_1.png, id=58, 379.4175pt x 245.91875pt>
+e_mask_1.png, id=64, 379.4175pt x 245.91875pt>
 File: off_sample_mask_1.png Graphic file (type png)
 
 <use off_sample_mask_1.png>
-Package pdftex.def Info: off_sample_mask_1.png used on input line 166.
+Package pdftex.def Info: off_sample_mask_1.png used on input line 196.
 (pdftex.def)             Requested size: 175.59363pt x 113.81102pt.
 
-<ion_image_on_sample.png, id=59, 561.09625pt x 501.875pt>
+<ion_image_on_sample.png, id=65, 561.09625pt x 501.875pt>
 File: ion_image_on_sample.png Graphic file (type png)
 
 <use ion_image_on_sample.png>
-Package pdftex.def Info: ion_image_on_sample.png used on input line 179.
+Package pdftex.def Info: ion_image_on_sample.png used on input line 209.
 (pdftex.def)             Requested size: 127.23434pt x 113.80533pt.
 
-<ion_image_off_sample.png, id=60, 561.09625pt x 501.875pt>
+<ion_image_off_sample.png, id=66, 561.09625pt x 501.875pt>
 File: ion_image_off_sample.png Graphic file (type png)
 
 <use ion_image_off_sample.png>
-Package pdftex.def Info: ion_image_off_sample.png used on input line 184.
+Package pdftex.def Info: ion_image_off_sample.png used on input line 214.
 (pdftex.def)             Requested size: 127.23434pt x 113.80533pt.
 
-Overfull \hbox (2.2222pt too wide) in paragraph at lines 177--190
+Overfull \hbox (2.2222pt too wide) in paragraph at lines 207--220
 [][] [] 
  []
 
-<pca_2d_plot.png, id=61, 384.43625pt x 251.94125pt>
+<pca_2d_plot.png, id=67, 384.43625pt x 251.94125pt>
 File: pca_2d_plot.png Graphic file (type png)
  <use pca_2d_plot.png>
-Package pdftex.def Info: pca_2d_plot.png used on input line 195.
+Package pdftex.def Info: pca_2d_plot.png used on input line 225.
 (pdftex.def)             Requested size: 260.49808pt x 170.71806pt.
 
-[5 <./sum_int_stacked_bar.png> <./off_sample_mask_1.png> <./ion_image_on_sample
+[6 <./sum_int_stacked_bar.png> <./off_sample_mask_1.png> <./ion_image_on_sample
 .png> <./ion_image_off_sample.png>]
-<pca_1d_plot.png, id=72, 404.51125pt x 254.9525pt>
+<pca_1d_plot.png, id=78, 404.51125pt x 254.9525pt>
 File: pca_1d_plot.png Graphic file (type png)
  <use pca_1d_plot.png>
-Package pdftex.def Info: pca_1d_plot.png used on input line 204.
+Package pdftex.def Info: pca_1d_plot.png used on input line 233.
 (pdftex.def)             Requested size: 270.87299pt x 170.7239pt.
 
-<kmeans_cluster_image.png, id=73, 261.97874pt x 250.9375pt>
+<kmeans_cluster_image.png, id=79, 261.97874pt x 250.9375pt>
 File: kmeans_cluster_image.png Graphic file (type png)
 
 <use kmeans_cluster_image.png>
-Package pdftex.def Info: kmeans_cluster_image.png used on input line 214.
+Package pdftex.def Info: kmeans_cluster_image.png used on input line 243.
 (pdftex.def)             Requested size: 178.23512pt x 170.7233pt.
- [6 <./pca_2d_plot.png> <./pca_1d_plot.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 226.
+ [7 <./pca_2d_plot.png> <./pca_1d_plot.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 255.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 226.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 255.
 
-Underfull \hbox (badness 4316) in paragraph at lines 247--247
+Underfull \hbox (badness 4316) in paragraph at lines 276--276
 [][][]\OT1/cmr/m/n/8 "Review of Deep Learn-ing Al-go-rithms for Im-age Clas-si-
 fi-ca-tion" []$\OT1/cmtt/m/n/8 https : / / medium . com / comet-[]app /
  []
 
-[7 <./kmeans_cluster_image.png>]
-<on_sample_1.png, id=91, 740.7675pt x 501.875pt>
+<cnn1.png, id=91, 645.16031pt x 344.03531pt>
+File: cnn1.png Graphic file (type png)
+ <use cnn1.png>
+Package pdftex.def Info: cnn1.png used on input line 287.
+(pdftex.def)             Requested size: 133.39081pt x 71.1314pt.
+ [8 <./kmeans_cluster_image.png>] <cnn3.png, id=101, 794.2172pt x 407.27156pt>
+File: cnn3.png Graphic file (type png)
+ <use cnn3.png>
+Package pdftex.def Info: cnn3.png used on input line 296.
+(pdftex.def)             Requested size: 138.71135pt x 71.13065pt.
+
+<cnn5.png, id=102, 794.97pt x 417.81094pt>
+File: cnn5.png Graphic file (type png)
+ <use cnn5.png>
+Package pdftex.def Info: cnn5.png used on input line 305.
+(pdftex.def)             Requested size: 135.33719pt x 71.12892pt.
+
+<cnn8.png, id=103, 765.6103pt x 378.66469pt>
+File: cnn8.png Graphic file (type png)
+ <use cnn8.png>
+Package pdftex.def Info: cnn8.png used on input line 314.
+(pdftex.def)             Requested size: 143.82027pt x 71.13234pt.
+
+<cnn10.png, id=104, 818.30719pt x 407.27156pt>
+File: cnn10.png Graphic file (type png)
+ <use cnn10.png>
+Package pdftex.def Info: cnn10.png used on input line 321.
+(pdftex.def)             Requested size: 142.91872pt x 71.13065pt.
+ [9 <./cnn1.png> <./cnn3.png> <./cnn5.png> <./cnn8.png>]
+<cnn12.png, id=117, 882.29625pt x 252.945pt>
+File: cnn12.png Graphic file (type png)
+ <use cnn12.png>
+Package pdftex.def Info: cnn12.png used on input line 330.
+(pdftex.def)             Requested size: 248.11829pt x 71.13287pt.
+
+<cnn13.png, id=118, 494.59781pt x 331.99031pt>
+File: cnn13.png Graphic file (type png)
+ <use cnn13.png>
+Package pdftex.def Info: cnn13.png used on input line 338.
+(pdftex.def)             Requested size: 105.96664pt x 71.1283pt.
+
+<cnn15.png, id=119, 459.96844pt x 444.15938pt>
+File: cnn15.png Graphic file (type png)
+ <use cnn15.png>
+Package pdftex.def Info: cnn15.png used on input line 345.
+(pdftex.def)             Requested size: 73.6596pt x 71.12794pt.
+ [10 <./cnn10.png> <./cnn12.png> <./cnn13.png> <./cnn15.png>]
+<on_sample_1.png, id=132, 740.7675pt x 501.875pt>
 File: on_sample_1.png Graphic file (type png)
  <use on_sample_1.png>
-Package pdftex.def Info: on_sample_1.png used on input line 274.
+Package pdftex.def Info: on_sample_1.png used on input line 378.
 (pdftex.def)             Requested size: 167.97665pt x 113.80533pt.
 
-<on_sample_2.png, id=92, 375.4025pt x 501.875pt>
+<on_sample_2.png, id=133, 375.4025pt x 501.875pt>
 File: on_sample_2.png Graphic file (type png)
  <use on_sample_2.png>
-Package pdftex.def Info: on_sample_2.png used on input line 275.
+Package pdftex.def Info: on_sample_2.png used on input line 379.
 (pdftex.def)             Requested size: 85.12637pt x 113.80533pt.
 
-<on_sample_3.png, id=93, 471.7625pt x 501.875pt>
+<on_sample_3.png, id=134, 471.7625pt x 501.875pt>
 File: on_sample_3.png Graphic file (type png)
  <use on_sample_3.png>
-Package pdftex.def Info: on_sample_3.png used on input line 276.
+Package pdftex.def Info: on_sample_3.png used on input line 380.
 (pdftex.def)             Requested size: 106.977pt x 113.80533pt.
 
-<off_sample_1.png, id=94, 497.86pt x 501.875pt>
+<off_sample_1.png, id=135, 497.86pt x 501.875pt>
 File: off_sample_1.png Graphic file (type png)
  <use off_sample_1.png>
-Package pdftex.def Info: off_sample_1.png used on input line 281.
+Package pdftex.def Info: off_sample_1.png used on input line 385.
 (pdftex.def)             Requested size: 112.89488pt x 113.80533pt.
 
-<off_sample_2.png, id=95, 538.01pt x 501.875pt>
+<off_sample_2.png, id=136, 538.01pt x 501.875pt>
 File: off_sample_2.png Graphic file (type png)
  <use off_sample_2.png>
-Package pdftex.def Info: off_sample_2.png used on input line 282.
+Package pdftex.def Info: off_sample_2.png used on input line 386.
 (pdftex.def)             Requested size: 121.99931pt x 113.80533pt.
 
-<off_sample_3.png, id=96, 661.47125pt x 500.87125pt>
+<off_sample_3.png, id=137, 661.47125pt x 500.87125pt>
 File: off_sample_3.png Graphic file (type png)
  <use off_sample_3.png>
-Package pdftex.def Info: off_sample_3.png used on input line 283.
+Package pdftex.def Info: off_sample_3.png used on input line 387.
 (pdftex.def)             Requested size: 150.29822pt x 113.80699pt.
 
-<class_distribution.png, id=97, 956.57375pt x 388.45125pt>
+<class_distribution.png, id=138, 956.57375pt x 388.45125pt>
 File: class_distribution.png Graphic file (type png)
 
 <use class_distribution.png>
-Package pdftex.def Info: class_distribution.png used on input line 298.
+Package pdftex.def Info: class_distribution.png used on input line 402.
 (pdftex.def)             Requested size: 418.25185pt x 199.17441pt.
- [8 <./on_sample_1.png> <./on_sample_2.png> <./on_sample_3.png> <./off_sample_1
-.png> <./off_sample_2.png> <./off_sample_3.png>]
-[9 <./class_distribution.png>]
+ [11 <./on_sample_1.png> <./on_sample_2.png> <./on_sample_3.png> <./off_sample_
+1.png> <./off_sample_2.png> <./off_sample_3.png>]
+[12 <./class_distribution.png>]
 Missing character: There is no â in font cmr8!
 Missing character: There is no € in font cmr8!
 Missing character: There is no ‹ in font cmr8!
-
-<cnn_summary.png, id=122, 587.19376pt x 826.08624pt>
+ [13]
+<cnn_summary.png, id=170, 587.19376pt x 826.08624pt>
 File: cnn_summary.png Graphic file (type png)
  <use cnn_summary.png>
-Package pdftex.def Info: cnn_summary.png used on input line 365.
+Package pdftex.def Info: cnn_summary.png used on input line 495.
 (pdftex.def)             Requested size: 323.5937pt x 455.24379pt.
 
-[10] [11 <./cnn_summary.png>]
-<cross-validation_metrics.png, id=134, 461.725pt x 301.125pt>
+[14] [15 <./cnn_summary.png>]
+<cross-validation_metrics.png, id=191, 461.725pt x 301.125pt>
 File: cross-validation_metrics.png Graphic file (type png)
 
 <use cross-validation_metrics.png>
-Package pdftex.def Info: cross-validation_metrics.png used on input line 394.
+Package pdftex.def Info: cross-validation_metrics.png used on input line 524.
 (pdftex.def)             Requested size: 261.77692pt x 170.72406pt.
 
-<cross-validation_mean_metrics.png, id=135, 208.78pt x 133.49875pt>
+<cross-validation_mean_metrics.png, id=192, 208.78pt x 133.49875pt>
 File: cross-validation_mean_metrics.png Graphic file (type png)
 
 <use cross-validation_mean_metrics.png>
-Package pdftex.def Info: cross-validation_mean_metrics.png used on input line 4
-00.
+Package pdftex.def Info: cross-validation_mean_metrics.png used on input line 5
+30.
 (pdftex.def)             Requested size: 111.24858pt x 71.1349pt.
 
-<cross-validation_scatter_plot.png, id=136, 633.36626pt x 329.23pt>
+<cross-validation_scatter_plot.png, id=193, 633.36626pt x 329.23pt>
 File: cross-validation_scatter_plot.png Graphic file (type png)
 
 <use cross-validation_scatter_plot.png>
-Package pdftex.def Info: cross-validation_scatter_plot.png used on input line 4
-06.
+Package pdftex.def Info: cross-validation_scatter_plot.png used on input line 5
+36.
 (pdftex.def)             Requested size: 418.26463pt x 217.41805pt.
- [12 <./cross-validation_metrics.png> <./cross-validation_mean_metrics.png>] [1
-3 <./cross-validation_scatter_plot.png>] <on_sample_test_pred_1.png, id=149, 27
+ [16 <./cross-validation_metrics.png> <./cross-validation_mean_metrics.png>] [1
+7 <./cross-validation_scatter_plot.png>] <on_sample_test_pred_1.png, id=205, 27
 4.02374pt x 272.01625pt>
 File: on_sample_test_pred_1.png Graphic file (type png)
 
 <use on_sample_test_pred_1.png>
-Package pdftex.def Info: on_sample_test_pred_1.png used on input line 428.
+Package pdftex.def Info: on_sample_test_pred_1.png used on input line 558.
 (pdftex.def)             Requested size: 143.32104pt x 142.27109pt.
 
-<off_sample_test_pred_1.png, id=150, 270.00874pt x 266.9975pt>
+<off_sample_test_pred_1.png, id=206, 270.00874pt x 266.9975pt>
 File: off_sample_test_pred_1.png Graphic file (type png)
 
 <use off_sample_test_pred_1.png>
-Package pdftex.def Info: off_sample_test_pred_1.png used on input line 429.
+Package pdftex.def Info: off_sample_test_pred_1.png used on input line 559.
 (pdftex.def)             Requested size: 143.87437pt x 142.26984pt.
 
-<on_sample_test_pred_2.png, id=151, 268.00125pt x 265.99374pt>
+<on_sample_test_pred_2.png, id=207, 268.00125pt x 265.99374pt>
 File: on_sample_test_pred_2.png Graphic file (type png)
 
 <use on_sample_test_pred_2.png>
-Package pdftex.def Info: on_sample_test_pred_2.png used on input line 434.
+Package pdftex.def Info: on_sample_test_pred_2.png used on input line 564.
 (pdftex.def)             Requested size: 143.3404pt x 142.26668pt.
 
-<off_sample_test_pred_2.png, id=152, 265.99374pt x 253.94875pt>
+<off_sample_test_pred_2.png, id=208, 265.99374pt x 253.94875pt>
 File: off_sample_test_pred_2.png Graphic file (type png)
 
 <use off_sample_test_pred_2.png>
-Package pdftex.def Info: off_sample_test_pred_2.png used on input line 435.
+Package pdftex.def Info: off_sample_test_pred_2.png used on input line 565.
 (pdftex.def)             Requested size: 149.01636pt x 142.26845pt.
- [14 <./on_sample_test_pred_1.png> <./off_sample_test_pred_1.png> <./on_sample_
+ [18 <./on_sample_test_pred_1.png> <./off_sample_test_pred_1.png> <./on_sample_
 test_pred_2.png> <./off_sample_test_pred_2.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 493.
- [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 493.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 623.
+ [19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 623.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 493.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 493.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 623.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 623.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 1E35D8BBF180299C853E4E87274CA172;45.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 623.
  ) 
 Here is how much of TeX's memory you used:
- 8612 strings out of 494953
- 127273 string characters out of 6180978
- 221805 words of memory out of 5000000
- 11717 multiletter control sequences out of 15000+600000
+ 8681 strings out of 494953
+ 128111 string characters out of 6180978
+ 220805 words of memory out of 5000000
+ 11753 multiletter control sequences out of 15000+600000
  12015 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,8n,43p,644b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,43p,648b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -734,10 +785,18 @@ fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (15 pages, 1039998 bytes).
+Output written on report.pdf (19 pages, 1417327 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 154 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+
+onts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on report.pdf (19 pages, 1417950 bytes).
+PDF statistics:
+ 285 PDF objects out of 1000 (max. 8388607)
+ 190 compressed objects within 2 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
